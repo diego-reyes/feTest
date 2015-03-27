@@ -1,0 +1,38 @@
+header {
+  text-align: center;
+  height: 160px;
+  padding-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 2px;
+  h1 {
+    color: #aaa;
+  }
+  h3 {
+    color: #337ab7;
+  }
+}
+
+.pagination{
+  text-align: center;
+  vertical-align: middle;
+  width: 100%;
+  margin: 0 auto 20px;
+
+  .wrapper-page-label{
+    padding-top: 10px;
+  }
+  
+  .wrapper-left-button{
+    padding-left: 0;
+  }
+
+  .wrapper-right-button{
+    padding-right: 0;
+  }
+  
+  button{
+     display: inline;
+	 
+  }
+
+}
